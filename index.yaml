@@ -3,7 +3,7 @@ entries:
   nginxstd:
   - apiVersion: v2
     appVersion: 1.14.2
-    created: "2024-01-15T03:22:22.295233819Z"
+    created: "2024-01-15T03:24:38.778240837Z"
     description: Nginx Standard Template for duldul82.com
     digest: 61742e9f901e1b911fe1463fb5f5075be1f4f8a5fd202c4e827f15c3998ade39
     name: nginxstd
@@ -14,7 +14,7 @@ entries:
   redis:
   - apiVersion: v1
     appVersion: 5.0.7
-    created: "2024-01-15T03:22:22.315825614Z"
+    created: "2024-01-15T03:24:38.800686629Z"
     deprecated: true
     description: DEPRECATED Open source, advanced key-value store. It is often referred
       to as a data structure server since keys can contain strings, hashes, lists,
@@ -32,4 +32,4 @@ entries:
     urls:
     - redis-10.5.7.tgz
     version: 10.5.7
-generated: "2024-01-15T03:22:22.278125579Z"
+generated: "2024-01-15T03:24:38.757562446Z"
